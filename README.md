@@ -1,7 +1,7 @@
 # Bubble_Shooter-2048
-Proyecto Programación Orientada a Objetos.
+Programación Orientada a Objetos.
 
-Por **Juan Gordillo** , **Jose Ávila** y **Manuel Maya**, grupo **5**.
+Por **Manuel Maya**.
 
 ## Requerimientos
 
